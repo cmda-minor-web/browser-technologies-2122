@@ -12,7 +12,7 @@ Het doel van deze opdracht is te leren hoe je een online interactieve toepassing
 
 ## Uitleg
 
-Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede user experience.
+Maak een demo op basis van een user story. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede user experience.
 
 Bouw je demo in 3 lagen, volgens het principe van _Progressive Enhancement_.
 
@@ -24,7 +24,7 @@ Polyfills en NPM packages op de client zijn niet toegestaan, op de server kun je
 Gebruik [caniuse.com](https://caniuse.com), [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
 
 
-## Use Cases
+## User Story
 
 1. [Enquete over de minor Web Development](Usecase-enquete.md)
 2. [Nerdy T-Shirt](Usecase-t-nerdy-shirt.md)

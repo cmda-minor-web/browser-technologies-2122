@@ -22,7 +22,7 @@ Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features
 
 - [Opdracht 2 - Breek het Web](course/Opdracht2.md)
 
-### De eindopdracht ✨ Progressive Enhanced Browser Technologie
+### Eindopdracht ✨ Progressive Enhanced Browser Technologie
 
 Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi en prettig om te gebruiken.
 

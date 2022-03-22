@@ -46,40 +46,38 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 
 ### Week 1
 
-Het web is voor iedereen: Deze week gaan we onderzoeken wat Progressive Enhancement is en kennismaken met testen ~~en het device lab~~.
+Het web is voor iedereen: Deze week gaan we onderzoeken wat Progressive Enhancement is en kennismaken met testen en het device lab.
 
-#### Woensdag 10 maart
+#### Woensdag 23 maart
 
 Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg over het programma en over het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit waarschijnlijk al eens gehoord en misschien iets mee gedaan in blok Tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
 
-| Woensdag 10/3 | Wat  |
+| Woensdag 23/3 | Wat  |
 |---|---|
-| 9:30 | [College les 1 over het vak, wie, wat, waar en waarom](course/BT2021-les1-progressive-enhancement.pdf)  |
-|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](course/Opdracht1.md) |
-| 16:00 | Checkout per team |
+| 9:30 | College les 1 over het vak, wie, wat, waar en waarom |
+|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](course/opdracht-.md) |
+| 16:00 | Checkout in groepjes |
 
 ##### Lezen voor les 1 📖
 
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
 
-
-
 #### Donderdag 11 maart
 
-Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van Progressive Enhancement. Tijdens de bespreking kun je ook vragen te stellen, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
+Donderdag gaan we opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van Progressive Enhancement. Tijdens de bespreking kun je ook vragen te stellen, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
 
 In het college krijg je uitleg over opdracht 2. Voor deze opdracht ga je proberen het web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken?
 
-🤟 Vandaag geeft [Aaron Gustafson](https://www.aaron-gustafson.com) een gast-college. hij schreef in 2008 het artikel [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development. Aaron Gustafson werkt bij Microsoft als 'web standard advocate' met het Edge browser team.
+🤟 Vandaag geeft [Aaron Gustafson](https://www.aaron-gustafson.com) om 17:00 een gast-college. hij schreef in 2008 het artikel [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development. Aaron Gustafson werkt bij Microsoft als 'web standard advocate' met het Edge browser team.
 
-| Donderdag 11/3 | Wat  |
+| Donderdag 24/3 | Wat  |
 |---|---|
 | 9:30 | Opdracht 1 bespreken in Squads 🛹 |
-| 10:30 | [College les 2 over Browser features](course/BT2021-les2-progressive-enhancement.pdf) |
-|  | [Briefing Opdracht 2 💔 Breek het web](course/Opdracht2.md) |
+| 10:30 | College les 2 over Browser features |
+|  | [Briefing Opdracht 2 💔 Breek het web](course/opdracht-2.md) |
 | 16:00 | Checkout per team |
-| 18:00 | Gastcollege Aaron Gustafson 🤟 |
+| 17:00 | Gastcollege Aaron Gustafson 🤟 |
 
 Lezen voor les 2 📖
 

@@ -63,7 +63,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
 
-#### Donderdag 11 maart
+#### Donderdag 24 maart
 
 Donderdag gaan we opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van Progressive Enhancement. Tijdens de bespreking kun je ook vragen te stellen, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
 
@@ -83,130 +83,48 @@ Lezen voor les 2 📖
 
 - [The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
-#### Vrijdag 12 maart
+#### Vrijdag 25 maart
 
-Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je onderzoek online kan presenteren. We gaan de hele feature lijst doorlopen en alle studenten kunnen laten zien wat ze hebben onderzocht, met voorbeelden, de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
+Vrijdag bespreken we opdracht 2. Zorg dat je de bevindingen van je onderzoek online kan presenteren. We gaan de hele feature lijst doorlopen en alle studenten kunnen laten zien wat ze hebben onderzocht, met voorbeelden, de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
 
-| Vrijdag 12/3 | Wat  |
+| Vrijdag 25/3 | Wat  |
 |---|---|
-| 11:30 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) in team C 💔 |
-| 13:00 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) in team A 💔 |
-| 14:30 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) in team B 💔 |
+| 9:30 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 2
 
 In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Deze week gaan we leren hoe je een interactieve toepassing in 3 lagen kan ontwerpen en wat je kan doen als een browser een 'enhancement' niet kan tonen.
 
-#### Woensdag 17 maart
+#### Woensdag 29 maart
 
 Woensdag krijg je een briefing van de eindopdracht en een college over browsers, en alles (!) wat daarbij hoort. Daarna gaan we aan de slag: als je een interactieve toepassing ontwerpt die alle gebruikers, met alle browsers moeten kunnen zien, dan zul je moeten bedenken hoe je de toepassing in 3 lagen kan opbouwen, eerst bepaal je de core functionaliteit en de user-delight ... schetsen maar!
 
-| Woensdag 17/3 | Wat  |
+| Woensdag 29/3 | Wat  |
 |---|---|
-| 9:30 | [College les 3 over Feature Detection en de eindopdracht](course/BT2021-les3-feature-detection.pdf) |
-|  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
-| 9:45 | [College over browsers en support detection]() |
-| 10:30 | Sessies: User Deligt & Core functionaliteit ✨ |
-| 16:00 | Checkout per team |
+| 9:30 | Gastcollege van [Vitaly Friedman](https://www.smashingmagazine.com/author/vitaly-friedman/) over interfaces! |
+|  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/eindopdracht.md) |
+| 11:00 | [College over browsers en support detection]() |
+| 16:00 | Checkouts |
 
-#### Donderdag 18 maart
+#### Donderdag 30 maart
 
 Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeën bespreken en bedenken hoe je dit in 3 lagen zou kunnen bouwen.  
 
-🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs! Wat wil je hem vragen over het web?
-
-| Donderdag 18/3 | Wat  |
+| Donderdag 30/3 | Wat  |
 |---|---|
 | 9:30 | College les 4 over Viewports |
-| 10:30 | Sessies: Bouwen in 3 lagen ✨ |
-| 14:00 | Q&A Heydon Pickering 🤟 |
-| 16:00 | Checkout per team |
+| 16:00 | Checkouts |
 
 Lezen voor les 4 📖
 
 - [Be progressive by Jeremy Keith](https://adactio.com/journal/7706)
 
-#### Vrijdag 19 maart
+#### Vrijdag 31 maart
 
-Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je vandaag weet welke browsers (en devices) jij gaat testen.
+Vrijdag bespreken we in groepjes de vorderingen voor de eindopdracht. Zorg dat je vandaag weet welke browsers (en devices) jij gaat testen.
 
-| Vrijdag 19/3 | Wat  |
+| Vrijdag 31/3 | Wat  |
 |---|---|
-| 11:30 | Vorderingen bespreken in team B ✨ |
-| 13:00 | Vorderingen bespreken in team C ✨ |
-| 14:30 | Vorderingen bespreken in team A ✨ |
+| 9:30 | Vorderingen bespreken & feedback in groepjes |
 | 16:00 | Work Hard Play Hard |
-
-### Week 3
-
-Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om jullie vorderingen te bespreken en vragen te beantwoorden.
-
-#### Woensdag 24 maart
-
-| Woensdag 24/3 | Wat  |
-|---|---|
-| 9:30 | College les 5 over form-validatie |
-| 10:30 | Sessies: Feature detectie en testen ✨ |
-| 16:00 | Checkout per team |
-
-#### Donderdag 25 maart
-
-Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
-
-🤟 Vandaag geeft [Ischa Gast](https://ischagast.nl) een presentatie. Ischa werk als frontend developer voor Schiphol.nl, op die website komen [3.000.000 bezoekers per maand](https://www.accessibility.nl/cases/toegankelijkheid-bij-website-schiphol). Toegankelijkheid is een belangrijk onderwerp met zoveel bezoekers, en daar weet Ischa heel veel van. "Laten wij het web toegankelijker maken en niet alleen mensen met een beperking zullen hier voordeel uit halen maar IEDEREEN!"
-
-| Donderdag 25/3 | Wat  |
-|---|---|
-| 9:30 | Sessies: Code-reviews ✨ |
-| 10:30 | Gastcollege Ischa Gast 🤟 |
-| 16:00 | Checkout per team |
-
-Lezen voor les 6 📖
-
-- [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
-
-#### Vrijdag 26 maart
-
-Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je een code-review hebt gekregen van twee mede-studenten.
-
-| Vrijdag 26/3 | Wat  |
-|---|---|
-| 11:30 | Vorderingen bespreken in team A ✨ |
-| 13:00 | Vorderingen bespreken in team B ✨ |
-| 14:30 | Vorderingen bespreken in team C ✨ |
-| 16:00 | Work Hard Play Hard |
-
-### Week 4
-
-In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespreken en beoordelen.
-
-| Dinsdag 30/3 | Wat  |
-|---|---|
-| 9:30 - 15:30 | Beoordelingsgesprekken ✨ |
-
-| Woensdag 31/3 | Wat  |
-|---|---|
-| 9:30 - 15:30 | Beoordelingsgesprekken ✨ |
-
-| Donderdag 1/4 | Wat  |
-|---|---|
-| 14:00 | [Weekly Nerd 2️⃣](https://github.com/cmda-minor-web/weekly-nerd-2021)|
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->

@@ -8,35 +8,33 @@ Het doel van deze opdracht is onderzoeken wat Progressive Enhancement is.
 
 ## Uitleg
 
-Progressive Enhancement? 
+Progressive Enhancement?
 
-prəˈɡres.ɪv ɪnˈhæns.mənt. 
+prəˈɡres.ɪv ɪnˈhæns.mənt.
 
-Geleidelijke verbetering? 
+Geleidelijke verbetering?
 
-Piiiii IEieieieieieie??? 
+Piiiii IEieieieieieie???
 
-Wat is dat? 
+Wat is dat?
 
 Wellicht hebt je wel eens gehoord van Progressive Enhancement. Maar wat kan je er mee? Hoe werkt dat? Is het moeilijk? In de eerste les van Browser Technolgies is het woord al 20 keer gevallen. Nu durf je bijna niet meer te vragen wat het betekent. Maar niet getreurd, na deze opdracht weet jij alles van PE ...
 
-Heydon Pickering heeft onlangs een (geniaal) filmpje gemaakt over het nut van Progressive Enancement: [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). 
-In zijn filmpje gebruikt hij een metafoor van een skateboard om Progressive Enhancement uit te leggen. 
+Heydon Pickering heeft onlangs een (geniaal) filmpje gemaakt over het nut van Progressive Enancement: [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/).
+In zijn filmpje gebruikt hij een metafoor van een skateboard om Progressive Enhancement uit te leggen.
 Voor deze opdracht bedenk jij samen met je clubje een eigen metafoor voor PE.
-Leg in eigen woorden uit wat PE is, gebruik voorbeelden en bedenk hoe je kan testen of een website wel of niet goed PE is. 
-Presenteer je metafoor en uitleg op een webpagina. 
-<br> [SPOILER ALERT] Volgende week donderdag komt Heydon Pickering langs voor een gastcollege.
+Leg in eigen woorden uit wat PE is, gebruik voorbeelden en bedenk hoe je kan testen of een website wel of niet goed PE is.
+Presenteer je metafoor en uitleg op een webpagina.
 
-
-Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement) en gebruik dit als bron. 
-<br> [SPOILER ALERT] Donderdag komt Aaron Gustafson langs voor een gastcollege. 
+Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement) en gebruik dit als bron.
+<br> [SPOILER ALERT] Volgende week donderdag komt Aaron Gustafson langs voor een gastcollege.
 
 ## Werkwijze
 
 1. Werk samen in een clubje van 3 of 4 studenten (half team)
 2. Woensdagochtend briefing opdracht, dan clubjes maken en aan de slag
 3. Woensdagmiddag checkout met studentassistent
-4. Donderdagochtend resultaten bespreken in de Squad
+4. Donderdagochtend resultaten bespreken.
 
 
 ## Criteria

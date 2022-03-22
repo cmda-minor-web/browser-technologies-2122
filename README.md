@@ -1,6 +1,6 @@
 # Browser Technologies @cmda-minor-web 20-21
 
-//Robuuste, toegankelijke websites ontwerpen en maken …
+_Robuuste, toegankelijke websites ontwerpen en maken …_
 
 Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in je browser ziet. Er zijn technische beperkingen, zoals afmetingen van de browser, grootte van het apparaat, manier van interactie, kwaliteit van de hardware, kwaliteit van het netwerk en er zijn mensen, allemaal verschillende mensen ...
 
@@ -14,19 +14,19 @@ het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf
 
 Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
 
-- [Opdracht 1 - NPM install Progressive Enhancement](course/Opdracht1.md)
+- [Opdracht 1 - NPM install Progressive Enhancement](course/opdracht-1.md)
 
 ### Opdracht 2 💔 Breek het Web
 
-Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? 
+Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken?
 
-- [Opdracht 2 - Breek het Web](course/Opdracht2.md)
+- [Opdracht 2 - Breek het Web](course/opdracht-2.md)
 
 ### Eindopdracht ✨ Progressive Enhanced Browser Technologie
 
 Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi en prettig om te gebruiken.
 
-- [De eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md)
+- [De eindopdracht - Progressive Enhanced Browser Technologie](course/eindopdracht.md)
 
 
 ### Leerdoelen
@@ -34,7 +34,7 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 - _je leert Browser Technologies te onderzoeken, testen en implementeren als enhancement._
 - _je leert hoe je Feature Detection doet en wat je kan doen als een 'feature' niet werkt of wordt ondersteund._
 
-[Rubric](https://docs.google.com/spreadsheets/d/1MV3BWwwg_Zz1n-S_qOM4iSm4gA4M6g0xAxGacyaPuac/)
+[Rubric](https://icthva.sharepoint.com/:x:/s/FDMCI_EDU_CMD_Minor_Web_Design__Development/ET8k_fDG3VVPvqMkqx2uCusBR5-yeGaKo01meb9bDorLuQ?e=0hbmOk)
 
 ## Planning & programma
 
@@ -42,8 +42,7 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 |---|---|---|---|
 | [Week 1](#week-1)  | Intro, College + briefing opdracht 1 | Presentaties opdracht 1, college +  briefing opdracht 2 | Presentaties opdracht 2 |
 | [Week 2](#week-2)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
-| [Week 3](#week-3)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Feedbackgesprekken  |
-| [Week 4](#week-4)  | Beoordelingsgesprekken (Dinsdag en Woensdag) | Weekly Nerd | Goede vrijdag |
+| [Week 3](#week-3)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Beoordelingen!  |
 
 ### Week 1
 

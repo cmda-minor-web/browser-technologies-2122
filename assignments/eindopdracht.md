@@ -52,9 +52,9 @@ Lees
 
 Bekijk de [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) als je wat tips nodig hebt voor het ontwerpen van een gebruiksvriendelijke interface. Probeer in ieder geval deze principes toe te passen in je ontwerp: 04 Keep users in control, 09 Appearance follows behavior, 10 Consistency matters, 11 Strong visual hierarchies work best.
 
-Lees [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows/) als je nog eens wil lezen over wirfelows. 
+Lees [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows/) als je nog eens wil lezen over wirfelows.
 
-De features waarop je moet testen komen uit [opdracht 2 - Breek het Web](https://github.com/cmda-minor-web/browser-technologies-2021/blob/master/course/opdracht-2.md), Afbeeldingen, Custom fonts, Kleur, Muis/Trackpad, Breedband internet, Javascript, Cookies, LocalStorage.
+De features waarop je moet testen komen uit [opdracht 2 - Breek het Web](https://github.com/cmda-minor-web/browser-technologies-2021/blob/master/assignments/opdracht-2.md), Afbeeldingen, Custom fonts, Kleur, Muis/Trackpad, Breedband internet, Javascript, Cookies, LocalStorage.
 
 
 ## Criteria

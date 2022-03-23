@@ -14,19 +14,19 @@ het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf
 
 Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
 
-- [Opdracht 1 - NPM install Progressive Enhancement](course/opdracht-1.md)
+- [Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
 
 ### Opdracht 2 💔 Breek het Web
 
 Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken?
 
-- [Opdracht 2 - Breek het Web](course/opdracht-2.md)
+- [Opdracht 2 - Breek het Web](assignments/opdracht-2.md)
 
 ### Eindopdracht ✨ Progressive Enhanced Browser Technologie
 
 Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi en prettig om te gebruiken.
 
-- [De eindopdracht - Progressive Enhanced Browser Technologie](course/eindopdracht.md)
+- [De eindopdracht - Progressive Enhanced Browser Technologie](assignments/eindopdracht.md)
 
 
 ### Leerdoelen
@@ -55,7 +55,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 | Woensdag 23/3 | Wat  |
 |---|---|
 | 9:30 | College les 1 over het vak, wie, wat, waar en waarom |
-|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](course/opdracht-.md) |
+|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md) |
 | 16:00 | Checkout in groepjes |
 
 ##### Lezen voor les 1 📖
@@ -75,7 +75,7 @@ In het college krijg je uitleg over opdracht 2. Voor deze opdracht ga je probere
 |---|---|
 | 9:30 | Opdracht 1 bespreken in Squads 🛹 |
 | 10:30 | College les 2 over Browser features |
-|  | [Briefing Opdracht 2 💔 Breek het web](course/opdracht-2.md) |
+|  | [Briefing Opdracht 2 💔 Breek het web](assignments/opdracht-2.md) |
 | 16:00 | Checkout per team |
 | 17:00 | Gastcollege Aaron Gustafson 🤟 |
 
@@ -89,7 +89,7 @@ Vrijdag bespreken we opdracht 2. Zorg dat je de bevindingen van je onderzoek onl
 
 | Vrijdag 25/3 | Wat  |
 |---|---|
-| 9:30 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) |
+| 9:30 | [Opdracht 2 bespreken](assignments/BT2021-opdracht-2-8-features.pdf) |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 2
@@ -103,7 +103,7 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 | Woensdag 29/3 | Wat  |
 |---|---|
 | 9:30 | Gastcollege van [Vitaly Friedman](https://www.smashingmagazine.com/author/vitaly-friedman/) over interfaces! |
-|  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/eindopdracht.md) |
+|  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](assignments/eindopdracht.md) |
 | 11:00 | [College over browsers en support detection]() |
 | 16:00 | Checkouts |
 

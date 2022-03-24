@@ -73,7 +73,7 @@ In het college krijg je uitleg over opdracht 2. Voor deze opdracht ga je probere
 
 | Donderdag 24/3 | Wat  |
 |---|---|
-| 9:30 | Opdracht 1 bespreken in Squads 🛹 |
+| 9:30 | Opdracht 1 bespreken 🛹 |
 | 10:30 | College les 2 over Browser features |
 |  | [Briefing Opdracht 2 💔 Breek het web](assignments/opdracht-2.md) |
 | 16:00 | Checkout per team |

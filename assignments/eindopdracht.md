@@ -24,12 +24,12 @@ Gebruik [caniuse.com](https://caniuse.com), [html5test.com](https://html5test.co
 
 ## User Story
 
-1. [Enquete over de minor Web Development](usecases/Usecase-enquete.md)
-2. [Nerdy T-Shirt](usecases/Usecase-t-nerdy-shirt.md)
-3. [Online poll met resultaten](usecases/Usecase-online-poll.md)
-4. [Online Foto album](usecases/Usecase-online-foto-album.md)
-5. [Routebeschrijving naar het Device Lab](usecases/Usecase-routebeschrijving-device-lab.md)
-6. [Sportwedstrijd score website](usecases/Usecase-score-website.md)
+1. [Enquete over de minor Web Development](../usecases/Usecase-enquete.md)
+2. [Nerdy T-Shirt](../usecases/Usecase-t-nerdy-shirt.md)
+3. [Online poll met resultaten](../usecases/Usecase-online-poll.md)
+4. [Online Foto album](../usecases/Usecase-online-foto-album.md)
+5. [Routebeschrijving naar het Device Lab](../usecases/Usecase-routebeschrijving-device-lab.md)
+6. [Sportwedstrijd score website](../usecases/Usecase-score-website.md)
 7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 ## Werkwijze

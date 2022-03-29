@@ -104,7 +104,6 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 |---|---|
 | 9:30 | Gastcollege van [Vitaly Friedman](https://www.smashingmagazine.com/author/vitaly-friedman/) over interfaces! |
 |  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](assignments/eindopdracht.md) |
-| 11:00 | [College over browsers en support detection]() |
 | 16:00 | Checkouts |
 
 #### Donderdag 30 maart
@@ -113,7 +112,7 @@ Donderdag gaan we voorbeelden van PE en feature detection bespreken in een colle
 
 | Donderdag 30/3 | Wat  |
 |---|---|
-| 9:30 | College les 4 over Viewports |
+| 9:30 | College les 3 over Browsers & support detection |
 | 16:00 | Checkouts |
 
 Lezen voor les 4 📖

@@ -8,6 +8,9 @@ require('dotenv').config()
 const app = express();
 const port = process.env.PORT;
 
+//BodyParser
+app.use(express.urlencoded({ extended: false }));
+
 // Aangeven waar onze statishce files zich bevinden  
 app.use(express.static('static'));
 
@@ -20,6 +23,18 @@ app.set('views', './views');
 //Routing
 app.get('/', (req, res) => {
     res.render('home')
+});
+
+app.get('/resultaten', (req, res) => {
+    res.render('results')
+});
+
+app.post('/resultaten', (req, res) => {
+    let vraag1 = req.body.vraag1;
+    let vraag2 = req.body.vraag2;
+    let vraag3 = req.body.vraag3;
+    console.log(vraag1 + vraag2 + vraag3)
+    res.render('results')
 });
 
 // Set server

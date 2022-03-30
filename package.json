@@ -1,0 +1,35 @@
+{
+  "name": "College Poll",
+  "version": "1.0.0",
+  "description": "Browser Tech",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "node": "^17.7.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "test-commando"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jornveltrop/College-Poll.git"
+  },
+  "keywords": [
+    "College"
+  ],
+  "author": "Jorn veltrop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jornveltrop/College-Poll/issues"
+  },
+  "homepage": "https://github.com/jornveltrop/College-Poll/blob/main/README.md"
+}

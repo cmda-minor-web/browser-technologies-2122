@@ -100,13 +100,14 @@ In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE
 
 Woensdag krijg je een briefing van de eindopdracht en een college over browsers, en alles (!) wat daarbij hoort. Daarna gaan we aan de slag: als je een interactieve toepassing ontwerpt die alle gebruikers, met alle browsers moeten kunnen zien, dan zul je moeten bedenken hoe je de toepassing in 3 lagen kan opbouwen, eerst bepaal je de core functionaliteit en de user-delight ... schetsen maar!
 
-| Woensdag 29/3 | Wat  |
+| Woensdag 30/3 | Wat  |
 |---|---|
 | 9:30 | Gastcollege van [Vitaly Friedman](https://www.smashingmagazine.com/author/vitaly-friedman/) over interfaces! |
-|  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](assignments/eindopdracht.md) |
-| 16:00 | Checkouts |
+| 11:15 | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](assignments/eindopdracht.md) |
+| 15:00 | Checkout per team |
+| 16:00 | Weekly Nerd @ Medialounge w/ Vitaly Friedman |
 
-#### Donderdag 30 maart
+#### Donderdag 31 maart
 
 Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeën bespreken en bedenken hoe je dit in 3 lagen zou kunnen bouwen.  
 
@@ -119,7 +120,7 @@ Lezen voor les 4 📖
 
 - [Be progressive by Jeremy Keith](https://adactio.com/journal/7706)
 
-#### Vrijdag 31 maart
+#### Vrijdag 1 april
 
 Vrijdag bespreken we in groepjes de vorderingen voor de eindopdracht. Zorg dat je vandaag weet welke browsers (en devices) jij gaat testen.
 

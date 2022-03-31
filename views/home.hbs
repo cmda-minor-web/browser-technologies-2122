@@ -1,49 +1,24 @@
 <main>
     <form method="POST" action="/resultaten">
         <h2>Vragen</h2>
-        <fieldset>
-            <legend>Vraag 1</legend>
-            <p>
-                <label for="keuze1_a">A</label>
-                <input type="radio" name="vraag1" id="keuze1_a" value="a">
-            </p>
-            
-            <p>
-                <label for="keuze1_b">B</label>
-                <input type="radio" name="vraag1" id="keuze1_b" value="b">
-            </p>
-        </fieldset>
 
-        <fieldset>
-            <legend>Vraag 2</legend>
-            <p>
-                <label for="keuze2_a">A</label>
-                <input type="radio" name="vraag2" id="keuze2_a" value="a">
-            </p>
-            
-            <p>
-                <label for="keuze2_b">B</label>
-                <input type="radio" name="vraag2" id="keuze2_b" value="b">
-            </p>
-        </fieldset>
-        
-        <fieldset>
-            <legend>Vraag 3</legend>
-            <p>
-                <label for="keuze3_a">A</label>
-                <input type="radio" name="vraag3" id="keuze3_a" value="a">
-            </p>
-            
-            <p>
-                <label for="keuze3_b">B</label>
-                <input type="radio" name="vraag3" id="keuze3_b" value="b">
-            </p>
-        </fieldset>
-
+        {{#each questions}}
+            <fieldset>
+                <legend>Vraag {{id}}</legend>
+                <h3>{{question}}</h3>
+                <p>
+                    <label for="keuze{{1}}_a">A</label>
+                    <input type="radio" name="vraag{{id}}" id="keuze{{id}}_a" value="a">
+                </p>
+                
+                <p>
+                    <label for="keuze{{id}}_b">B</label>
+                    <input type="radio" name="vraag{{id}}" id="keuze{{id}}_b" value="b">
+                </p>
+            </fieldset>
+        {{/each}}
         <p>
             <button type="submit">Stem!</button>
         </p>
     </form>
 </main>
-
-

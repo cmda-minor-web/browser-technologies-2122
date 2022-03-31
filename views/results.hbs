@@ -1,5 +1,14 @@
 <main>
    <h2>Resultaten</h2>
+   
+      {{#each voteResults}}
+         <section>
+            <h3>Vraag {{id}}</h3>
+            <h4>{{question}}</h4>
+            <p>A: {{a}}</p>
+            <p>B: {{b}}</p>
+         </section>
+      {{/each}}
 </main>
 
 

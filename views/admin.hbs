@@ -2,33 +2,20 @@
     <form method="POST" action="/">
         <h2>Vragen</h2>
 
-        <p>
-            <label for="vraag1">Vraag 1</label>
-            <input type="text" name="vraag1" id="vraag1" placeholder="Stel vraag 1 in...">
-        </p>
-        
-        <p>
-            <label for="vraag2">Vraag 2</label>
-            <input type="text" name="vraag2" id="vraag2" placeholder="Stel vraag 2 in...">
-        </p>
-
-        <p>
-            <label for="vraag3">Vraag 3</label>
-            <input type="text" name="vraag3" id="vraag3" placeholder="Stel vraag 3 in...">
-        </p>
-
-        <p>
-            <label for="vraag4">Vraag 4</label>
-            <input type="text" name="vraag4" id="vraag4" placeholder="Stel vraag 4 in...">
-        </p>
-
-        <p>
-            <label for="vraag5">Vraag 5</label>
-            <input type="text" name="vraag5" id="vraag5" placeholder="Stel vraag 5 in...">
-        </p>
+        {{#each dataResults}}
+            <p>
+                <label for="vraag{{id}}">Vraag {{id}}</label>
+                <input type="text" name="vraag{{id}}" id="vraag{{id}}" placeholder="Stel vraag {{id}} in..." value="{{question}}">
+            </p>
+        {{/each}}
 
         <p>
             <button type="submit">Stel vragen in</button>
+        </p>
+    </form>
+    <form method="POST" action="/reset">
+        <p>
+            <button type="submit" class="reset">Reset</button>
         </p>
     </form>
 </main>

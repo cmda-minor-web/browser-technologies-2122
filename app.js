@@ -44,13 +44,21 @@ app.get('/resultaten', (req, res) => {
 
 app.post('/resultaten', (req, res) => {
     let voteData = req.body
+    console.log(voteData);
     let voteResults = setResults(voteData)
     // console.log(voteResults)
     res.render('results', {voteResults})
 });
 
+app.post('/reset', (req, res) => {
+    let voteData = resetArray
+    let voteResults = resetResults(voteData)
+    // console.log(voteResults)
+    res.render('results', {voteResults})
+});
+
 app.get('/admin', (req, res) => {
-    res.render('admin')
+    res.render('admin', {dataResults})
 });
 
 // Set server
@@ -58,6 +66,13 @@ app.listen(port, () => {
     console.log(`Gebruikte poort:${port}!`)
 });
 
+function resetResults (voteData) {
+    Object.keys(voteData).forEach((key, i) => {
+            dataResults[i].a = 0;
+            dataResults[i].b = 0;
+        })
+    return dataResults;
+}
 
 function setResults (voteData) {
     Object.keys(voteData).forEach((key, i) => {
@@ -86,31 +101,60 @@ function setQuestions (questionData) {
 let dataResults = [
     {
         id: 1,
-        question: 'Vraag 1',
+        question: '',
         a: 0,
         b: 0
     },
     {
         id: 2,
-        question: 'Vraag 2',
+        question: '',
         a: 0,
         b: 0
     },
     {
         id: 3,
-        question: 'Vraag 3',
+        question: '',
         a: 0,
         b: 0
     },
     {
         id: 4,
-        question: 'Vraag 4',
+        question: '',
         a: 0,
         b: 0
     },
     {
         id: 5,
-        question: 'Vraag 5',
+        question: '',
+        a: 0,
+        b: 0
+    },
+]
+
+
+let resetArray = [
+    {
+        id: 1,
+        a: 0,
+        b: 0
+    },
+    {
+        id: 2,
+        a: 0,
+        b: 0
+    },
+    {
+        id: 3,
+        a: 0,
+        b: 0
+    },
+    {
+        id: 4,
+        a: 0,
+        b: 0
+    },
+    {
+        id: 5,
         a: 0,
         b: 0
     },

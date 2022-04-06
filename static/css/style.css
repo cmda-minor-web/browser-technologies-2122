@@ -107,6 +107,10 @@ button {
     font-weight: 700;
     appearance: none;
     border: none;
-    background: #1ABE7C;;
+    background: #1ABE7C;
     border-radius: .8em;
+}
+
+form:nth-of-type(2) button {
+    background: #be301a;
 }

@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "test-commando"
+    "test": "nodemon app.js"
   },
   "repository": {
     "type": "git",

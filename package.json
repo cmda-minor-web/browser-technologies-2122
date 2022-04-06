@@ -16,7 +16,7 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "test": "test-commando"
   },
   "repository": {

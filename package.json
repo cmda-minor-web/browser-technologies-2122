@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Browser Tech",
   "main": "app.js",
+  "engines": {
+    "node": "15.7.0"
+  },
   "directories": {
     "doc": "docs"
   },

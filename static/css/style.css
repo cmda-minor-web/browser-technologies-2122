@@ -35,8 +35,8 @@ h3 {
 }
 
 header {
-    padding: 2em;
-    background: #1ABE7C;
+    padding: 1.5em;
+    background: #185C90;
     color: #fff;
     border-radius: 0 0 1.5em 1.5em;
 }
@@ -44,11 +44,22 @@ header {
 nav {
     margin-right: 0;
     display: inline-block;
+    width: 100%;
+    height: 2em;
 }
 
 nav a {
-    margin-right: .5em;
-    text-decoration: underline;
+    margin-right: 1.3em;
+    padding-bottom: .3em;
+    font-weight: 600;
+}
+
+nav a:last-of-type {
+    float: right;
+}
+
+nav a:hover {
+    border-bottom: 3px solid #fff;
 }
 
 main {
@@ -76,11 +87,12 @@ legend {
     padding: 0;
 }
 
-label {
+input, label {
+    cursor: pointer;
     font-size: 1em;
 }
 
-label + input:checked{
+label ~ input:checked{
     font-weight: bold;
 }
 
@@ -91,6 +103,7 @@ input[type="text"] {
     width: 100%;
     border: none;
     border-radius: .7em;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.127);
 }
 
 form > p:last-of-type {
@@ -107,20 +120,20 @@ button {
     font-weight: 700;
     appearance: none;
     border: none;
-    background: #1ABE7C;
+    background: #185C90;
     border-radius: .8em;
     cursor: pointer;
     transition: all .3s ease;
 }
 
 button:hover {
-    background: #1aa46d;
+    background: #134d7a;
 }
 
 form:nth-of-type(2) button {
-    background: #d34b36;
+    background: #9F3323;
 }
 
 form:nth-of-type(2) button:hover {
-    background: #be301a;
+    background: #892c1e;
 }

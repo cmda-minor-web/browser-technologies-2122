@@ -38,7 +38,7 @@ header {
     padding: 2em;
     background: #1ABE7C;
     color: #fff;
-    border-radius: 0 0 1em 1em;
+    border-radius: 0 0 1.5em 1.5em;
 }
 
 nav {
@@ -80,7 +80,7 @@ label {
     font-size: 1em;
 }
 
-label ~ input:checked{
+label + input:checked{
     font-weight: bold;
 }
 
@@ -109,8 +109,18 @@ button {
     border: none;
     background: #1ABE7C;
     border-radius: .8em;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+button:hover {
+    background: #1aa46d;
 }
 
 form:nth-of-type(2) button {
+    background: #d34b36;
+}
+
+form:nth-of-type(2) button:hover {
     background: #be301a;
 }

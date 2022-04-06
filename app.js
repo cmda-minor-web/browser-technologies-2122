@@ -44,7 +44,7 @@ app.get('/resultaten', (req, res) => {
 
 app.post('/resultaten', (req, res) => {
     let voteData = req.body
-    console.log(voteData);
+    // console.log(voteData);
     let voteResults = setResults(voteData)
     // console.log(voteResults)
     res.render('results', {voteResults})

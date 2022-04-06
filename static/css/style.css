@@ -128,11 +128,12 @@ button {
     background: #185C90;
     border-radius: .8em;
     cursor: pointer;
-    transition: all .3s ease;
+    transition: background .3s ease;
 }
 
 button:hover {
     background: #134d7a;
+    transition: background .3s ease;
 }
 
 form:nth-of-type(2) button {
@@ -141,4 +142,5 @@ form:nth-of-type(2) button {
 
 form:nth-of-type(2) button:hover {
     background: #892c1e;
+    transition: background .3s ease;
 }

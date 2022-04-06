@@ -2,21 +2,25 @@
     <form method="POST" action="/resultaten">
         <h2>Stemmen</h2>
 
-        {{#each questions}}
-            <fieldset>
-                <legend>Vraag {{id}}</legend>
-                <h4>{{question}}</h4>
-                <p>
-                    <label for="keuze{{id}}_a">A</label>
-                    <input type="radio" name="vraag{{id}}" id="keuze{{id}}_a" value="a">
-                </p>
-                
-                <p>
-                    <label for="keuze{{id}}_b">B</label>
-                    <input type="radio" name="vraag{{id}}" id="keuze{{id}}_b" value="b">
-                </p>
-            </fieldset>
-        {{/each}}
+        <div class="slider">
+            <div class="slides">
+                {{#each questions}}
+                    <fieldset>
+                        <legend>Vraag {{id}}</legend>
+                        <h4>{{question}}</h4>
+                        <p>
+                            <label for="keuze{{id}}_a">A</label>
+                            <input type="radio" name="vraag{{id}}" id="keuze{{id}}_a" value="a">
+                        </p>
+                        
+                        <p>
+                            <label for="keuze{{id}}_b">B</label>
+                            <input type="radio" name="vraag{{id}}" id="keuze{{id}}_b" value="b">
+                        </p>
+                    </fieldset>
+                {{/each}}
+            </div>
+        </div>
         <p>
             <button type="submit">Stem!</button>
         </p>

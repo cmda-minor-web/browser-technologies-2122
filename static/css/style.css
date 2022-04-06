@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+:focus {
+    outline-color: #FA8322;
+}
+
 html, body {
     margin: 0;
     color: #2a2a2a;
@@ -50,6 +54,7 @@ nav {
 
 nav a {
     margin-right: 1.3em;
+    padding: .3em;
     padding-bottom: .3em;
     font-weight: 600;
 }

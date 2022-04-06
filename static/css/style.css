@@ -73,14 +73,14 @@ main {
 }
 
 section {
-    margin: 1em 1em 1em 0;
+    margin: .8em 1em .8em 0;
     width: auto;
     height: auto;
     display: inline-block;
 }
 
 fieldset {
-    margin: 1em 2em 1em 0;
+    margin: .8em 1.8em .8em 0;
     padding: 0;
     width: auto;
     display: inline-block;

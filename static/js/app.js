@@ -1,6 +1,8 @@
 function init() {
-    const main = document.querySelector('main')
-    main.classList.add('jsEnabled')
+    if (document.body.classList) {
+        const main = document.querySelector('main')
+        main.classList.add('jsEnabled')
+    }
 
     setMenuActive()
 
@@ -11,8 +13,6 @@ function init() {
 }
 
 init();
-
-if (Array.prototype.forEach)
 
 
 function setMenuActive() {
@@ -55,26 +55,28 @@ function sliderNav() {
 }
 
 function setSlide(count) {
-    const prev = document.querySelector('.slider nav a:first-of-type')
-    const next = document.querySelector('.slider nav a:last-of-type')
+    if (document.body.classList) {
+        const prev = document.querySelector('.slider nav a:first-of-type')
+        const next = document.querySelector('.slider nav a:last-of-type')
 
-    if (count > 1 && count < 5) {
-        next.classList.remove('none')
-        prev.classList.remove('none')
+        if (count > 1 && count < 5) {
+            next.classList.remove('none')
+            prev.classList.remove('none')
 
-        window.location.hash = 'q' + count
+            window.location.hash = 'q' + count
 
-    } else if (count == 1) {
-        prev.classList.add('none')
-        window.location.hash = 'q' + count
+        } else if (count == 1) {
+            prev.classList.add('none')
+            window.location.hash = 'q' + count
 
-    } else if (count == 5) {
-        next.classList.add('none')
-        window.location.hash = 'q' + count
-        
-    } else {
-        let count = 1
-        return count
+        } else if (count == 5) {
+            next.classList.add('none')
+            window.location.hash = 'q' + count
+            
+        } else {
+            let count = 1
+            return count
+        }
     }
 }
 

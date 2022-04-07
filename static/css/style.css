@@ -144,7 +144,6 @@ button {
     text-transform: uppercase;
     font-weight: bold;
     appearance: none;
-    -webkit-appearance: none;
     border: none;
     background: #185C90;
     border-radius: .8em;
@@ -226,6 +225,7 @@ form:nth-of-type(2) button:hover {
     .jsEnabled input[type="radio"] {
         position: absolute;
         appearance: none;
+        -webkit-appearance: none;
         height: 2.8em;
         width: 3.2em;
     }

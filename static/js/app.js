@@ -6,6 +6,7 @@ function init() {
 
     if (window.location.pathname == "/") {
         sliderNav()
+        setSliderNavImg()
     }
 }
 
@@ -73,4 +74,14 @@ function setSlide(count) {
         let count = 1
         return count
     }
+}
+
+function setSliderNavImg() {
+    const arrowLeft = document.querySelector('.slider nav a:first-of-type img')
+    const arrowRight = document.querySelector('.slider nav a:last-of-type img')
+
+    arrowLeft.src = '/images/arrowLeft.svg'
+    arrowRight.src = '/images/arrowRight.svg'
+    arrowLeft.height = '0'
+    arrowRight.height = '0'
 }

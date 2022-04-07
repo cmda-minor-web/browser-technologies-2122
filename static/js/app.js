@@ -12,6 +12,8 @@ function init() {
 
 init();
 
+if (Array.prototype.forEach)
+
 
 function setMenuActive() {
     if (document.body.classList) {

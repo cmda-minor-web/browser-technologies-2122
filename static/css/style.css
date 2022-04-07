@@ -1,10 +1,4 @@
 @font-face {
-    font-family: Work Sans VF;
-    font-style: normal;
-    src: url('/font/WorkSans-VariableFont_wght.ttf');
-}
-
-@font-face {
     font-family: 'Work Sans';
     src: url('/font/WorkSans-Regular.ttf') format('ttf');
 }
@@ -28,7 +22,7 @@ html, body {
 }
 
 body {
-    font-family: 'Work Sans VF', 'Work Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     background: #f0f3f5;
 }
 

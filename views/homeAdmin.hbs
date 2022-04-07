@@ -1,4 +1,4 @@
-{{> header }}
+{{> headerAdmin }}
 <main>
     <form method="POST" action="/resultaten">
         <h2>Stemmen</h2>
@@ -6,7 +6,7 @@
         <div class="slider">
             <div class="slides">
                 {{#each questions}}
-                    <fieldset id="q{{id}}">
+                    <fieldset>
                         <legend>Vraag {{id}}</legend>
                         <h4>{{question}}</h4>
                         <div>
@@ -24,11 +24,6 @@
                     </fieldset>
                 {{/each}}
             </div>
-
-            <nav>
-                <a><</a>
-                <a>></a>
-            </nav>
         </div>
         <p>
             <button type="submit">Stem!</button>

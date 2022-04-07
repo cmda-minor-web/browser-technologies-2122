@@ -23,9 +23,14 @@ app.set('views', './views');
 
 //Routing
 app.get('/', (req, res) => {
+    let query = req.query.admin
     let questionData = req.body
     let questions = setQuestions(questionData)
-    res.render('home', {questions})
+    if (query == true) {
+        res.render('homeAdmin', {questions})
+    } else {
+        res.render('home', {questions})
+    }
 });
 
 app.post('/', (req, res) => {

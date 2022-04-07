@@ -23,10 +23,11 @@ app.set('views', './views');
 
 //Routing
 app.get('/', (req, res) => {
-    let query = req.query.admin
     let questionData = req.body
     let questions = setQuestions(questionData)
-    if (query == true) {
+
+    let admin = req.query.admin
+    if (admin == 'true') {
         res.render('homeAdmin', {questions})
     } else {
         res.render('home', {questions})
@@ -36,22 +37,26 @@ app.get('/', (req, res) => {
 app.post('/', (req, res) => {
     let questionData = req.body
     let questions = setQuestions(questionData)
-    // console.log(questions)
+
     res.render('home', {questions})
 });
 
 app.get('/resultaten', (req, res) => {
     let voteData = req.body
     let voteResults = setResults(voteData)
-    // console.log(voteResults)
-    res.render('results', {voteResults})
+
+    let admin = req.query.admin
+    if (admin == 'true') {
+        res.render('resultsAdmin', {voteResults})
+    } else {
+        res.render('results', {voteResults})
+    }
 });
 
 app.post('/resultaten', (req, res) => {
     let voteData = req.body
-    // console.log(voteData);
     let voteResults = setResults(voteData)
-    // console.log(voteResults)
+
     res.render('results', {voteResults})
 });
 
@@ -63,7 +68,7 @@ app.post('/reset', (req, res) => {
 });
 
 app.get('/admin', (req, res) => {
-    res.render('admin', {dataResults})
+    res.render('admin', {dataResults})    
 });
 
 // Set server

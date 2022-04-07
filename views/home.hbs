@@ -10,14 +10,14 @@
                         <legend>Vraag {{id}}</legend>
                         <h4>{{question}}</h4>
                         <div>
-                            <p>
-                                <label for="keuze{{id}}_a">A</label>
+                            <p id="{{id}}_a">
                                 <input type="radio" name="vraag{{id}}" id="keuze{{id}}_a" value="a">
+                                <label for="keuze{{id}}_a">A</label>
                             </p>
                         
-                            <p>
-                                <label for="keuze{{id}}_b">B</label>
+                            <p id="{{id}}_b">
                                 <input type="radio" name="vraag{{id}}" id="keuze{{id}}_b" value="b">
+                                <label for="keuze{{id}}_b">B</label>
                             </p>
                         </div>
                         
@@ -26,11 +26,11 @@
             </div>
 
             <nav>
-                <a><</a>
-                <a>></a>
+                <a><img src="/images/arrowLeft.svg"/></a>
+                <a><img src="/images/arrowRight.svg"/></a>
             </nav>
         </div>
-        <p>
+        <p class="buttonContainer">
             <button type="submit">Stem!</button>
         </p>
     </form>

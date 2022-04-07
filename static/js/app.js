@@ -1,10 +1,14 @@
 function init() {
     const main = document.querySelector('main')
-    main.classList.add('jsEnabled');
+    main.classList.add('jsEnabled')
 
-    setMenuActive();
+    setMenuActive()
+    
+    if (window.location.pathname == "/") {
+        sliderNav()
 
-    sliderNav();
+        setCheckboxes()
+    }
 }
 
 init();
@@ -40,12 +44,12 @@ function sliderNav() {
 
     prev.addEventListener('click', function() {
         count -= 1
-        setSlide(count);
+        setSlide(count)
     })
 
     next.addEventListener('click', function() {
         count += 1
-        setSlide(count);
+        setSlide(count)
     })
 }
 
@@ -71,4 +75,21 @@ function setSlide(count) {
         let count = 1
         return count
     }
+}
+
+
+function setCheckboxes() {
+    //Feature detection bouwen
+        const checkboxes = document.querySelectorAll('input[type=radio]') 
+        checkboxes.forEach(checkbox => {
+            checkbox.addEventListener('click', function() {
+                
+                if (this.checked == true) {
+                    console.log('ja')
+                } else {
+                    console.log('nee')
+                }
+            })
+            
+        }) 
 }

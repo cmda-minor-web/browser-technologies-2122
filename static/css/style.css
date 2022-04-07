@@ -1,8 +1,7 @@
 @font-face {
     font-family: 'Work Sans VF';
     font-style: normal;
-    src: url('/font/WorkSans-VariableFont_wght.ttf'),
-    url('/font/WorkSans-VariableFont_wght.ttf');
+    src: url('/font/WorkSans-VariableFont_wght.ttf');
 }
 
 @font-face {

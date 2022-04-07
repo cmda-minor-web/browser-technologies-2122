@@ -144,6 +144,7 @@ button {
     text-transform: uppercase;
     font-weight: bold;
     appearance: none;
+    -webkit-appearance: none;
     border: none;
     background: #185C90;
     border-radius: .8em;

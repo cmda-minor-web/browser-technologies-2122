@@ -180,7 +180,7 @@ form:nth-of-type(2) button:hover {
     }
 
     .jsEnabled form {
-        display: fle    x;
+        display: flex;
         flex-direction: column;
         align-items: center;
         margin: 0;

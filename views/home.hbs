@@ -8,15 +8,18 @@
                     <fieldset>
                         <legend>Vraag {{id}}</legend>
                         <h4>{{question}}</h4>
-                        <p>
-                            <label for="keuze{{id}}_a">A</label>
-                            <input type="radio" name="vraag{{id}}" id="keuze{{id}}_a" value="a">
-                        </p>
+                        <div>
+                            <p>
+                                <label for="keuze{{id}}_a">A</label>
+                                <input type="radio" name="vraag{{id}}" id="keuze{{id}}_a" value="a">
+                            </p>
                         
-                        <p>
-                            <label for="keuze{{id}}_b">B</label>
-                            <input type="radio" name="vraag{{id}}" id="keuze{{id}}_b" value="b">
-                        </p>
+                            <p>
+                                <label for="keuze{{id}}_b">B</label>
+                                <input type="radio" name="vraag{{id}}" id="keuze{{id}}_b" value="b">
+                            </p>
+                        </div>
+                        
                     </fieldset>
                 {{/each}}
             </div>

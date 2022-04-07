@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'Work Sans';
+    font-family: Work Sans;
     src: url('/font/WorkSans-Regular.ttf') format('ttf');
 }
 @font-face {
-    font-family: 'Work Sans';
+    font-family: Work Sans;
     src: url('/font/WorkSans-Bold.ttf') format('ttf');
     font-weight: bold;
 }

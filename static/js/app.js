@@ -3,11 +3,9 @@ function init() {
     main.classList.add('jsEnabled')
 
     setMenuActive()
-    
+
     if (window.location.pathname == "/") {
         sliderNav()
-
-        setCheckboxes()
     }
 }
 
@@ -75,21 +73,4 @@ function setSlide(count) {
         let count = 1
         return count
     }
-}
-
-
-function setCheckboxes() {
-    //Feature detection bouwen
-        const checkboxes = document.querySelectorAll('input[type=radio]') 
-        checkboxes.forEach(checkbox => {
-            checkbox.addEventListener('click', function() {
-                
-                if (this.checked == true) {
-                    console.log('ja')
-                } else {
-                    console.log('nee')
-                }
-            })
-            
-        }) 
 }

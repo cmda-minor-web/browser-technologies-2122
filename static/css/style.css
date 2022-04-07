@@ -173,14 +173,14 @@ form:nth-of-type(2) button:hover {
 
 @supports (display: flex) {
     /* SLIDER: https://codepen.io/alvarotrigo/pen/bGqgqeK?editors=1100 */
-    .buttonContainer {
+    .jsEnabled form p.buttonContainer {
         display: flex;
         justify-content: center;
         margin-top: 2em;
     }
 
     .jsEnabled form {
-        display: flex;
+        display: fle    x;
         flex-direction: column;
         align-items: center;
         margin: 0;
@@ -222,11 +222,21 @@ form:nth-of-type(2) button:hover {
     }
 
     .jsEnabled input[type="radio"] {
-        display: none;
+        position: absolute;
+        appearance: none;
+        height: 2.8em;
+        width: 3.2em;
+    }
+
+    .jsEnabled input[type="radio"]:focus {
+        outline: auto;
+        outline-offset: 7px;
+        outline-color: #FA8322;
     }
 
     .jsEnabled fieldset p {
         margin: 0;
+        position: relative;
     }
 
     .jsEnabled fieldset label {

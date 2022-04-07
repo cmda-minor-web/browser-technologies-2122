@@ -1,15 +1,18 @@
 @font-face {
-    font-family: Work Sans;
+    font-family: 'Work Sans VF';
     font-style: normal;
-    font-weight: 100 900;
-    src: url(/font/WorkSans-VariableFont_wght.ttf);
+    src: url('/font/WorkSans-VariableFont_wght.ttf') format('ttf-variations'),
+    url('/font/WorkSans-VariableFont_wght.ttf') format('ttf');
 }
 
 @font-face {
-    font-family: Work Sans Italic;
-    font-style: italic;
-    font-weight: 100 900;
-    src: url(/font/WorkSans-Italic-VariableFont_wght.ttf);
+    font-family: 'Work Sans';
+    src: url('/font/WorkSans-Regular.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('/font/WorkSans-Bold.ttf') format('ttf');
+    font-weight: bold;
 }
 
 * { 
@@ -26,7 +29,7 @@ html, body {
 }
 
 body {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans VF', 'Work Sans', sans-serif;
     background: #f0f3f5;
 }
 

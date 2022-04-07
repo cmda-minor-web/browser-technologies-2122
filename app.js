@@ -67,6 +67,13 @@ app.post('/reset', (req, res) => {
     res.render('results', {voteResults})
 });
 
+app.get('/reset', (req, res) => {
+    let voteData = resetArray
+    let voteResults = resetResults(voteData)
+    // console.log(voteResults)
+    res.render('results', {voteResults})
+});
+
 app.get('/admin', (req, res) => {
     res.render('admin', {dataResults})    
 });

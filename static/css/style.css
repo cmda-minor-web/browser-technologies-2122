@@ -264,7 +264,7 @@ form:nth-of-type(2) button:hover {
         background-color: #185C90;
         margin: 0 10px 0 10px;
         cursor: pointer;
-        transition: opacity .5s ease, background .3s ease;
+        transition: background .5s ease;
     }
 
     .jsEnabled .slider nav a:hover {
@@ -273,9 +273,9 @@ form:nth-of-type(2) button:hover {
     }
 
     .jsEnabled .slider nav a.none {
-        opacity: 0;
         pointer-events: none;
-        transition: opacity .5s ease;
+        background: rgba(128, 128, 128, 0.272);
+        transition: background .5s ease;
     }
 
     .jsEnabled .slider nav a img {

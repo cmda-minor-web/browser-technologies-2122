@@ -1,4 +1,4 @@
-# Browser Technologies @cmda-minor-web 2122
+# Browser Technologies @cmda-minor-web 2021 - 2022
 
 _Robuuste, toegankelijke websites ontwerpen en maken …_
 
